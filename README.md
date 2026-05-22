@@ -83,27 +83,15 @@ Backend-focused developer building clean, scalable, and maintainable web applica
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=berataltinsuyu&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="170"
-    alt="Berat's GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=berataltinsuyu&show_icons=true&theme=dark&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=berataltinsuyu&layout=compact&theme=tokyonight&hide_border=true" 
-    height="170"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berataltinsuyu&layout=compact&theme=dark&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=berataltinsuyu&theme=tokyonight&hide_border=true" 
-    height="170"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=berataltinsuyu&theme=dark&hide_border=true" height="170" />
 </p>
 ---
 
