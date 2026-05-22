@@ -8,7 +8,6 @@ Backend-focused developer building clean, scalable, and maintainable web applica
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Engineering Student
 - 💼 Junior Backend Developer focused on **.NET Backend Development**
 - 🧩 Interested in backend architecture, API design, authentication, databases, and full-stack product development
 - 🚀 Building projects with **ASP.NET Core**, **React**, **PostgreSQL**, **Supabase**, **JWT**, and **Docker**
@@ -83,12 +82,29 @@ Backend-focused developer building clean, scalable, and maintainable web applica
 
 ## 📊 GitHub Stats
 
-![Berat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=berataltinsuyu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=berataltinsuyu&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="170"
+    alt="Berat's GitHub Stats"
+  />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=berataltinsuyu&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=berataltinsuyu&layout=compact&theme=tokyonight&hide_border=true" 
+    height="170"
+    alt="Top Languages"
+  />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=berataltinsuyu&theme=tokyonight&hide_border=true)
-
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=berataltinsuyu&theme=tokyonight&hide_border=true" 
+    height="170"
+    alt="GitHub Streak"
+  />
+</p>
 ---
 
 ## 🤝 Connect with Me
