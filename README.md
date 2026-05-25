@@ -48,27 +48,6 @@ Backend-focused developer building clean, scalable, and maintainable web applica
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| [RestaurantPOS](https://github.com/berataltinsuyu/RestaurantPOS) | Restaurant POS system with authentication, order management, database integration, and full-stack architecture. | React, ASP.NET Core Web API, PostgreSQL, Supabase, JWT |
-| [RealtimeChatAPI](https://github.com/berataltinsuyu/RealtimeChatAPI) | Real-time chat API designed with SignalR for instant communication features. | ASP.NET Core, SignalR, REST API |
-| [AITaskTracker.API](https://github.com/berataltinsuyu/AITaskTracker.API) | Task tracking API with authentication, EF Core persistence, and AI integration experiments. | .NET, JWT, EF Core, AI APIs |
-| [VbMerchant / Merchant Application](https://github.com/berataltinsuyu/VbMerchant) | Banking-oriented merchant application project with backend API features and document upload workflows. | ASP.NET Core, SQL, REST API, File Upload |
-
----
-
-## 📌 What I'm Working On
-
-- Improving backend architecture skills with **ASP.NET Core Web API**
-- Building full-stack applications using **React + .NET**
-- Designing secure authentication flows with **JWT**
-- Developing database-driven applications with **SQL Server**, **PostgreSQL**, and **Entity Framework Core**
-- Expanding real-world project experience through banking, POS, chat, and productivity-focused applications
-
----
-
 ## 📚 Currently Learning
 
 - Advanced **ASP.NET Core** patterns
