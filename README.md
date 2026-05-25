@@ -48,29 +48,9 @@ Backend-focused developer building clean, scalable, and maintainable web applica
 
 ---
 
-## 📚 Currently Learning
-
-- Advanced **ASP.NET Core** patterns
-- Clean Architecture and layered backend design
-- Docker-based deployment workflows
-- API security and authentication best practices
-- Scalable database design and query optimization
-- Full-stack deployment with **Render**, **Vercel**, and cloud database platforms
-
----
-
-## 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=berataltinsuyu&theme=dark&hide_border=true" height="170" />
-</p>
----
-
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-berataltinsuyu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/berataltinsuyu)
 
 
-Focused on building reliable backend systems, clean APIs, and practical full-stack software.
   
