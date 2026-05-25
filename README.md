@@ -82,13 +82,6 @@ Backend-focused developer building clean, scalable, and maintainable web applica
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=berataltinsuyu&show_icons=true&theme=dark&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berataltinsuyu&layout=compact&theme=dark&hide_border=true" height="170" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=berataltinsuyu&theme=dark&hide_border=true" height="170" />
@@ -99,9 +92,6 @@ Backend-focused developer building clean, scalable, and maintainable web applica
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-berataltinsuyu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/berataltinsuyu)
 
----
-
-### Thanks for visiting my profile.
 
 Focused on building reliable backend systems, clean APIs, and practical full-stack software.
   
