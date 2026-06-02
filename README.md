@@ -46,6 +46,16 @@ Backend-focused developer building clean, scalable, and maintainable web applica
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=111827)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+### AI & Data
+
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/chromadb-5B4BFF?style=for-the-badge&logo=databricks&logoColor=white)
+![Gemini API](https://img.shields.io/badge/gemini_api-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![RAG](https://img.shields.io/badge/rag-111827?style=for-the-badge&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/llm-412991?style=for-the-badge&logo=openai&logoColor=white)
+
 ---
 
 ## 🤝 Connect with Me
