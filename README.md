@@ -1,4 +1,4 @@
-# Hi, I'm Berat Altinsuyu 👋
+# Hi, I'm Berat Altınsuyu 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Junior+Backend+Developer;Computer+Engineering+Student;.NET+Backend+Development;REST+APIs+%7C+SQL+%7C+React+%7C+Full-Stack+Web)](https://git.io/typing-svg)
 
