@@ -52,7 +52,6 @@ Backend-focused developer building clean, scalable, and maintainable web applica
 ![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/chromadb-5B4BFF?style=for-the-badge&logo=databricks&logoColor=white)
-![Gemini API](https://img.shields.io/badge/gemini_api-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![RAG](https://img.shields.io/badge/rag-111827?style=for-the-badge&logo=openai&logoColor=white)
 ![LLM](https://img.shields.io/badge/llm-412991?style=for-the-badge&logo=openai&logoColor=white)
 
